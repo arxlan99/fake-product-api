@@ -1,0 +1,63 @@
+[
+  {
+    "name": "NexusData",
+    "children": [
+      { "name": "Users" },
+      { "name": "Invoice" },
+      {
+        "name": "Users",
+        "children": [
+          { "name": "Name" },
+          { "name": "Surname" },
+          { "name": "Address" },
+          { "name": "Id" }
+        ]
+      },
+      { "name": "Track" },
+      {
+        "name": "Album",
+        "children": [
+          { "name": "Column 1" },
+          { "name": "Column 2" },
+          { "name": "Column 3" },
+          { "name": "Column 4" }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "QuantumData",
+    "children": [
+      { "name": "Table 1" },
+      { "name": "Table 2" },
+      { "name": "Table 3" },
+      {
+        "name": "Table 4",
+        "children": [
+          { "name": "Column 1" },
+          { "name": "Column 2" },
+          { "name": "Column 3" },
+          { "name": "Column 4" }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "DataShield",
+    "children": [
+      { "name": "Table 1" },
+      { "name": "Table 2" },
+      { "name": "Table 3" },
+      { "name": "Table 4" },
+      {
+        "name": "Table 5",
+        "children": [
+          { "name": "Column 1" },
+          { "name": "Column 2" },
+          { "name": "Column 3" },
+          { "name": "Column 4" }
+        ]
+      }
+    ]
+  }
+]
