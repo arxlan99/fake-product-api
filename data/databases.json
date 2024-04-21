@@ -45,7 +45,7 @@
         "name": "Table 4",
         "children": [
           { "id": 20, "type": "column", "name": "Column 1" },
-          { "id": 20, "type": "column", "name": "Column 2" },
+          { "id": 201231354647, "type": "column", "name": "Column 2" },
           { "id": 21, "type": "column", "name": "Column 3" },
           { "id": 22, "type": "column", "name": "Column 4" }
         ]
