@@ -9,12 +9,12 @@
     "id": 15,
     "type": "database",
     "name": "QuantumData",
-    "children": ["main", "backup"]
+    "branches": ["main", "backup"]
   },
   {
     "id": 23,
     "type": "database",
     "name": "DataShield",
-    "children": ["master", "test", "develop"]
+    "branches": ["master", "test", "develop"]
   }
 ]
